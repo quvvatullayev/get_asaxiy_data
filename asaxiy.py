@@ -3,7 +3,8 @@ import requests
 from db import DB
 
 
-db = DB('sovutgichlar.json')
+path = 'your data file is name'
+db = DB(f'data/{path}.json')
 
 def get_html(url):
     r = requests.get(url)
@@ -39,7 +40,8 @@ def product_info(href_list:list):
 
 
 
-html = get_html("https://asaxiy.uz/uz/product/bytovaya-tehnika/krupnaya-tehnika-dlya-kuhni/morozilniki")
+url = "https://asaxiy.uz/uz/product/bytovaya-tehnika/krupnaya-tehnika-dlya-kuhni/morozilniki"
+html = get_html(url)
 # print(html)
 href_list = get_href(html)
  
