@@ -3,7 +3,7 @@ import requests
 from db import DB
 
 
-path = 'your data file is name'
+path = 'suv_kullerlari'
 db = DB(f'data/{path}.json')
 
 def get_html(url):
@@ -31,8 +31,9 @@ def product_info(href_list:list):
         card_info = soup.find('div', class_="more__about-content")
 
         h1 = card_info.find('h1', class_="product-title").text
-        brend = card_info.find('span', class_="text__content-name").text
-        model = card_info.find('div', class_="text__content d-flex align-items-center mr-3").find('a').text.strip()
+        names = card_info.find('div', class_="mb-3 d-flex flex-wrap")
+        brend = names.find('span', class_="text__content-name").text
+        model = names.find('div', class_="text__content d-flex align-items-center").find('span', class_="text__content-name").text
         priys = card_info.find('span', class_="price-box_new-price").text.strip()
         img = soup.find('div', class_="swiper-wrapper").find('img').get('src')
 
@@ -40,7 +41,7 @@ def product_info(href_list:list):
 
 
 
-url = "https://asaxiy.uz/uz/product/bytovaya-tehnika/krupnaya-tehnika-dlya-kuhni/morozilniki"
+url = "https://asaxiy.uz/uz/product/bytovaya-tehnika/krupnaya-tehnika-dlya-kuhni/kulery-dlya-vody"
 html = get_html(url)
 # print(html)
 href_list = get_href(html)

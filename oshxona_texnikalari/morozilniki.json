@@ -3,170 +3,254 @@
         "1": {
             "title": "\u041c\u043e\u0440\u043e\u0437\u0438\u043b\u044c\u043d\u0430\u044f \u043a\u0430\u043c\u0435\u0440\u0430 LORETTO LF-306G",
             "brend": "Loretto",
-            "model": "Loretto",
+            "model": "LF-306G",
             "price": "4 939 000 so'm",
             "img": "https://assets.asaxiy.uz/product/items/desktop/b2eb7349035754953b57a32e2841bda52023011611334447271GJZ8lpZHm8.jpg.webp"
         },
         "2": {
             "title": "\u041c\u043e\u0440\u043e\u0437\u0438\u043b\u044c\u043d\u0430\u044f \u043a\u0430\u043c\u0435\u0440\u0430 Midea MDRC-280SLF01G",
             "brend": "Midea",
-            "model": "Midea",
+            "model": "MDRC-280SLF01G",
             "price": "3 829 000 so'm",
             "img": "https://assets.asaxiy.uz/product/items/desktop/a87ff679a2f3e71d9181a67b7542122c2022051012240912825qOBUWna2QK.jpg.webp"
         },
         "3": {
             "title": "\u041c\u043e\u0440\u043e\u0437\u0438\u043b\u044c\u043d\u0430\u044f \u043a\u0430\u043c\u0435\u0440\u0430 Midea MDRC-405FZF01GL",
             "brend": "Midea",
-            "model": "Midea",
+            "model": "MDRC-405FZF01GL",
             "price": "4 699 000 so'm",
             "img": "https://assets.asaxiy.uz/product/items/desktop/b4b147bc522828731f1a016bfa72c0732022021416582123863DnAbWETajj.jpg.webp"
         },
         "4": {
             "title": "\u041c\u043e\u0440\u043e\u0437\u0438\u043b\u044c\u043d\u0430\u044f \u043a\u0430\u043c\u0435\u0440\u0430 Midea MDRC-564FZF01",
             "brend": "Midea",
-            "model": "Midea",
+            "model": "MDRC-564FZF01",
             "price": "6 899 000 so'm",
             "img": "https://assets.asaxiy.uz/product/items/desktop/6512bd43d9caa6e02c990b0a82652dca202202141633302836048R3NQj7iM.jpg.webp"
         },
         "5": {
             "title": "\u041c\u043e\u0440\u043e\u0437\u0438\u043b\u044c\u043d\u0430\u044f \u043a\u0430\u043c\u0435\u0440\u0430 Midea MDRC-345FZF01",
             "brend": "Midea",
-            "model": "Midea",
+            "model": "MDRC-345FZF01",
             "price": "4 229 000 so'm",
             "img": "https://assets.asaxiy.uz/product/items/desktop/b4b147bc522828731f1a016bfa72c073202202141703567626960lWFpBlrU.jpg.webp"
         },
         "6": {
             "title": "\u041c\u043e\u0440\u043e\u0437\u0438\u043b\u044c\u043d\u0438\u043a LG GN-304SLBT",
             "brend": "LG Electronics",
-            "model": "LG Electronics",
-            "price": "4 729 000 so'm",
+            "model": "GN-304SLBT",
+            "price": "4 759 000 so'm",
             "img": "https://assets.asaxiy.uz/product/items/desktop/6512bd43d9caa6e02c990b0a82652dca2022011310083133758qVYtEwkPuf.jpg.webp"
         },
         "7": {
             "title": "\u041c\u043e\u0440\u043e\u0437\u0438\u043b\u044c\u043d\u0438\u043a Premier PRM-204CHFR",
             "brend": "Premier",
-            "model": "Premier",
+            "model": "PRM-204CHFR",
             "price": "2 939 000 so'm",
             "img": "https://assets.asaxiy.uz/product/items/desktop/e4da3b7fbbce2345d7772b0674a318d52022020411573934379nwecuKOtje.png.webp"
         },
         "8": {
             "title": "\u041c\u043e\u0440\u043e\u0437\u0438\u043b\u044c\u043d\u0438\u043a Premier PRM-346SHFR",
             "brend": "Premier",
-            "model": "Premier",
+            "model": "PRM-346SHFR",
             "price": "5 809 000 so'm",
             "img": "https://assets.asaxiy.uz/product/items/desktop/c9f0f895fb98ab9159f51fd0297e236d2022020412055028011i5qtw4t8Cz.png.webp"
         },
         "9": {
             "title": "\u041c\u043e\u0440\u043e\u0437\u0438\u043b\u044c\u043d\u0438\u043a Premier PRM-300CHFR",
             "brend": "Premier",
-            "model": "Premier",
+            "model": "PRM-300CHFR",
             "price": "4 489 000 so'm",
             "img": "https://assets.asaxiy.uz/product/items/desktop/c4ca4238a0b923820dcc509a6f75849b2022020412025081719MQu7NSu8zu.png.webp"
         },
         "10": {
             "title": "\u041c\u043e\u0440\u043e\u0437\u0438\u043b\u044c\u043d\u0438\u043a Bosch GIN81AEF0 (\u0412\u0441\u0442\u0440\u0430\u0438\u0432\u0430\u0435\u043c\u044b\u0439)",
             "brend": "Bosch",
-            "model": "Bosch",
+            "model": "GIN81AEF0",
             "price": "13 399 000 so'm",
             "img": "https://assets.asaxiy.uz/product/items/desktop/c4ca4238a0b923820dcc509a6f75849b20211202083014697097nFLK2JoI1.jpg.webp"
         },
         "11": {
             "title": "\u041c\u043e\u0440\u043e\u0437\u0438\u043b\u044c\u043d\u0438\u043a Premier PRM-400CHFR",
             "brend": "Premier",
-            "model": "Premier",
+            "model": "PRM-400CHFR",
             "price": "6 729 000 so'm",
             "img": "https://assets.asaxiy.uz/product/items/desktop/c4ca4238a0b923820dcc509a6f75849b20220204113958870492BMYrEJtAz.png.webp"
         },
         "12": {
             "title": "\u041c\u043e\u0440\u043e\u0437\u0438\u043b\u044c\u043d\u0438\u043a Bosch GSN36VW31U",
             "brend": "Bosch",
-            "model": "Bosch",
+            "model": "GSN36VW31U",
             "price": "11 899 000 so'm",
             "img": "https://assets.asaxiy.uz/product/items/desktop/c4ca4238a0b923820dcc509a6f75849b2021120209152163454yYRzTCLelb.jpg.webp"
         },
         "13": {
             "title": "Moscow BD-418L White muzlatish kamerasi",
             "brend": "Moscow",
-            "model": "Moscow",
+            "model": "BD-418L White",
             "price": "7 419 000 so'm",
             "img": "https://assets.asaxiy.uz/product/items/desktop/d1f255a373a3cef72e03aa9d980c7eca20200417134638951461CZDHPExls.jpg.webp"
         },
         "14": {
             "title": "Moscow BD-518 (White) muzlatish kamerasi",
             "brend": "Moscow",
-            "model": "Moscow",
+            "model": "BD-518",
             "price": "8 469 000 so'm",
             "img": "https://assets.asaxiy.uz/product/items/desktop/c4ca4238a0b923820dcc509a6f75849b2020100711404170442ks2uJgNSbY.jpg.webp"
         },
         "15": {
             "title": "Moscow BD-608L (White) muzlatish kamerasi",
             "brend": "Moscow",
-            "model": "Moscow",
+            "model": "BD-608L",
             "price": "9 739 000 so'm",
             "img": "https://assets.asaxiy.uz/product/items/desktop/c4ca4238a0b923820dcc509a6f75849b20201007114642388447wbAdD6JLN.jpg.webp"
         },
         "16": {
             "title": "Moscow CD-258L muzlatish kamerasi",
             "brend": "Moscow",
-            "model": "Moscow",
+            "model": "CD-258L",
             "price": "5 339 000 so'm",
             "img": "https://assets.asaxiy.uz/product/items/desktop/6512bd43d9caa6e02c990b0a82652dca2021031209142096483tKrTK7ZBxJ.jpg.webp"
         },
         "17": {
             "title": "MOSCOW XF-200 muzlatish kamerasi",
             "brend": "Moscow",
-            "model": "Moscow",
+            "model": "XF-200",
             "price": "3 649 000 so'm",
             "img": "https://assets.asaxiy.uz/product/items/desktop/496e05e1aea0a9c4655800e8a7b9ea282021081709230530586SyxcvTsqMq.png.webp"
         },
         "18": {
             "title": "\u041c\u043e\u0440\u043e\u0437\u0438\u043b\u044c\u043d\u0430\u044f \u043a\u0430\u043c\u0435\u0440\u0430 Artel AFA390",
             "brend": "Artel",
-            "model": "Artel",
+            "model": "AFA390",
             "price": "5 489 000 so'm",
             "img": "https://assets.asaxiy.uz/product/items/desktop/c4ca4238a0b923820dcc509a6f75849b20211115120725130755nVFqvM9nf.png.webp"
         },
         "19": {
             "title": "MOSCOW XF-252 muzlatish kamerasi",
             "brend": "Moscow",
-            "model": "Moscow",
+            "model": "XF-252",
             "price": "4 289 000 so'm",
             "img": "https://assets.asaxiy.uz/product/items/desktop/03c6b06952c750899bb03d998e63186020210817093740108393dBwCd3sDx.jpg.webp"
         },
         "20": {
             "title": "Bosch GSN36AI31U muzlatgichi",
             "brend": "Bosch",
-            "model": "Bosch",
+            "model": "GSN36AI31U",
             "price": "14 169 000 so'm",
             "img": "https://assets.asaxiy.uz/product/items/desktop/fd4c2dc64ccb8496e6f1f94c85f30d062020032613021149852fSaoIwNa13.jpg.webp"
         },
         "21": {
             "title": "MOSCOW XF-512 muzlatish kamerasi",
             "brend": "Moscow",
-            "model": "Moscow",
+            "model": "XF-512",
             "price": "8 119 000 so'm",
             "img": "https://assets.asaxiy.uz/product/items/desktop/96a3be3cf272e017046d1b2674a52bd32021081709430883487I5u4bkX5Ol.jpg.webp"
         },
         "22": {
             "title": "\u041c\u043e\u0440\u043e\u0437\u0438\u043b\u044c\u043d\u0430\u044f \u043a\u0430\u043c\u0435\u0440\u0430 Artel AFA480",
             "brend": "Artel",
-            "model": "Artel",
+            "model": "AFA480",
             "price": "6 189 000 so'm",
             "img": "https://assets.asaxiy.uz/product/items/desktop/c4ca4238a0b923820dcc509a6f75849b2021111512101832540rVhbxqyi6R.png.webp"
         },
         "23": {
             "title": "\u041c\u043e\u0440\u043e\u0437\u0438\u043b\u044c\u043d\u0430\u044f \u043a\u0430\u043c\u0435\u0440\u0430 Artel AFA310",
             "brend": "Artel",
-            "model": "Artel",
+            "model": "AFA310",
             "price": "4 529 000 so'm",
             "img": "https://assets.asaxiy.uz/product/items/desktop/c4ca4238a0b923820dcc509a6f75849b20211115120450260629p44zfL95s.png.webp"
         },
         "24": {
             "title": "\u041c\u043e\u0440\u043e\u0437\u0438\u043b\u044c\u043d\u0430\u044f \u043a\u0430\u043c\u0435\u0440\u0430 Artel AFB300",
             "brend": "Artel",
-            "model": "Artel",
+            "model": "AFB300",
             "price": "3 469 000 so'm",
             "img": "https://assets.asaxiy.uz/product/items/desktop/c4ca4238a0b923820dcc509a6f75849b2021111512172131187HvvgiOvy7b.png.webp"
+        },
+        "25": {
+            "title": "\u041c\u043e\u0440\u043e\u0437\u0438\u043b\u044c\u043d\u0430\u044f \u043a\u0430\u043c\u0435\u0440\u0430 LORETTO LF-306G",
+            "brend": "Loretto",
+            "model": "LF-306G",
+            "price": "4 939 000 so'm",
+            "img": "https://assets.asaxiy.uz/product/items/desktop/b2eb7349035754953b57a32e2841bda52023011611334447271GJZ8lpZHm8.jpg.webp"
+        },
+        "26": {
+            "title": "\u041c\u043e\u0440\u043e\u0437\u0438\u043b\u044c\u043d\u0430\u044f \u043a\u0430\u043c\u0435\u0440\u0430 Midea MDRC-280SLF01G",
+            "brend": "Midea",
+            "model": "MDRC-280SLF01G",
+            "price": "3 829 000 so'm",
+            "img": "https://assets.asaxiy.uz/product/items/desktop/a87ff679a2f3e71d9181a67b7542122c2022051012240912825qOBUWna2QK.jpg.webp"
+        },
+        "27": {
+            "title": "\u041c\u043e\u0440\u043e\u0437\u0438\u043b\u044c\u043d\u0430\u044f \u043a\u0430\u043c\u0435\u0440\u0430 Midea MDRC-405FZF01GL",
+            "brend": "Midea",
+            "model": "MDRC-405FZF01GL",
+            "price": "4 699 000 so'm",
+            "img": "https://assets.asaxiy.uz/product/items/desktop/b4b147bc522828731f1a016bfa72c0732022021416582123863DnAbWETajj.jpg.webp"
+        },
+        "28": {
+            "title": "\u041c\u043e\u0440\u043e\u0437\u0438\u043b\u044c\u043d\u0430\u044f \u043a\u0430\u043c\u0435\u0440\u0430 Midea MDRC-564FZF01",
+            "brend": "Midea",
+            "model": "MDRC-564FZF01",
+            "price": "6 899 000 so'm",
+            "img": "https://assets.asaxiy.uz/product/items/desktop/6512bd43d9caa6e02c990b0a82652dca202202141633302836048R3NQj7iM.jpg.webp"
+        },
+        "29": {
+            "title": "\u041c\u043e\u0440\u043e\u0437\u0438\u043b\u044c\u043d\u0430\u044f \u043a\u0430\u043c\u0435\u0440\u0430 Midea MDRC-345FZF01",
+            "brend": "Midea",
+            "model": "MDRC-345FZF01",
+            "price": "4 229 000 so'm",
+            "img": "https://assets.asaxiy.uz/product/items/desktop/b4b147bc522828731f1a016bfa72c073202202141703567626960lWFpBlrU.jpg.webp"
+        },
+        "30": {
+            "title": "\u041c\u043e\u0440\u043e\u0437\u0438\u043b\u044c\u043d\u0438\u043a LG GN-304SLBT",
+            "brend": "LG Electronics",
+            "model": "GN-304SLBT",
+            "price": "4 759 000 so'm",
+            "img": "https://assets.asaxiy.uz/product/items/desktop/6512bd43d9caa6e02c990b0a82652dca2022011310083133758qVYtEwkPuf.jpg.webp"
+        },
+        "31": {
+            "title": "\u041c\u043e\u0440\u043e\u0437\u0438\u043b\u044c\u043d\u0438\u043a Premier PRM-204CHFR",
+            "brend": "Premier",
+            "model": "PRM-204CHFR",
+            "price": "2 939 000 so'm",
+            "img": "https://assets.asaxiy.uz/product/items/desktop/e4da3b7fbbce2345d7772b0674a318d52022020411573934379nwecuKOtje.png.webp"
+        },
+        "32": {
+            "title": "\u041c\u043e\u0440\u043e\u0437\u0438\u043b\u044c\u043d\u0438\u043a Premier PRM-346SHFR",
+            "brend": "Premier",
+            "model": "PRM-346SHFR",
+            "price": "5 809 000 so'm",
+            "img": "https://assets.asaxiy.uz/product/items/desktop/c9f0f895fb98ab9159f51fd0297e236d2022020412055028011i5qtw4t8Cz.png.webp"
+        },
+        "33": {
+            "title": "\u041c\u043e\u0440\u043e\u0437\u0438\u043b\u044c\u043d\u0438\u043a Premier PRM-300CHFR",
+            "brend": "Premier",
+            "model": "PRM-300CHFR",
+            "price": "4 489 000 so'm",
+            "img": "https://assets.asaxiy.uz/product/items/desktop/c4ca4238a0b923820dcc509a6f75849b2022020412025081719MQu7NSu8zu.png.webp"
+        },
+        "34": {
+            "title": "\u041c\u043e\u0440\u043e\u0437\u0438\u043b\u044c\u043d\u0438\u043a Bosch GIN81AEF0 (\u0412\u0441\u0442\u0440\u0430\u0438\u0432\u0430\u0435\u043c\u044b\u0439)",
+            "brend": "Bosch",
+            "model": "GIN81AEF0",
+            "price": "13 399 000 so'm",
+            "img": "https://assets.asaxiy.uz/product/items/desktop/c4ca4238a0b923820dcc509a6f75849b20211202083014697097nFLK2JoI1.jpg.webp"
+        },
+        "35": {
+            "title": "\u041c\u043e\u0440\u043e\u0437\u0438\u043b\u044c\u043d\u0438\u043a Premier PRM-400CHFR",
+            "brend": "Premier",
+            "model": "PRM-400CHFR",
+            "price": "6 729 000 so'm",
+            "img": "https://assets.asaxiy.uz/product/items/desktop/c4ca4238a0b923820dcc509a6f75849b20220204113958870492BMYrEJtAz.png.webp"
+        },
+        "36": {
+            "title": "\u041c\u043e\u0440\u043e\u0437\u0438\u043b\u044c\u043d\u0438\u043a Bosch GSN36VW31U",
+            "brend": "Bosch",
+            "model": "GSN36VW31U",
+            "price": "11 899 000 so'm",
+            "img": "https://assets.asaxiy.uz/product/items/desktop/c4ca4238a0b923820dcc509a6f75849b2021120209152163454yYRzTCLelb.jpg.webp"
         }
     }
 }
