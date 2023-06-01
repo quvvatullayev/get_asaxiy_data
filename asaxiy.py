@@ -3,8 +3,8 @@ import requests
 from db import DB
 
 
-path = 'tkuv_mashenalar'
-db = DB(f'uyuchun_texnikalar/{path}.json')
+path = 'televizor_ilgichlari'
+db = DB(f'televizorla/{path}.json')
 
 def get_html(url):
     r = requests.get(url)
@@ -41,7 +41,7 @@ def product_info(href_list:list):
 
 
 
-url = "https://asaxiy.uz/uz/product/bytovaya-tehnika/tehnika-dlya-doma-2/shvejnye-mashiny-i-oborudovanie"
+url = "https://asaxiy.uz/uz/product/televizory-video-i-audio/kronshtejny"
 html = get_html(url)
 # print(html)
 href_list = get_href(html)
